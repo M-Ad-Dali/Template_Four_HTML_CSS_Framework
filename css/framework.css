@@ -108,6 +108,9 @@
 .m-0 {
   margin: 0;
 }
+.m-15 {
+  margin: 15px;
+}
 .m-20 {
   margin: 20px;
 }
@@ -190,6 +193,9 @@
 }
 .b-buttom-1s-eee {
   border-bottom: 1px solid #EEE;
+}
+.border-ccc {
+  border: 1px solid #ccc;
 }
 .b-none {
   border: none;
