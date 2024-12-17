@@ -73,6 +73,9 @@
 .w-full {
   width: 100%;
 }
+.h-100 {
+  height: 100px;
+}
 .h-full {
   height: 100%;
 }
@@ -146,6 +149,9 @@
 .mr-15 {
   margin-right: 15px;
 }
+.mr-5 {
+  margin-right: 5px;
+}
 .mb-5 {
   margin-bottom: 5px;
 }
@@ -176,6 +182,9 @@
 /* Start Position */
 .p-relative {
   position: relative;
+}
+.p-absolute {
+  position: absolute;
 }
 /* End Position */
 /* Start Font */
@@ -218,6 +227,9 @@
 }
 .border-ccc {
   border: 1px solid #ccc;
+}
+.border-eee {
+  border: 1px solid #eee;
 }
 .b-none {
   border: none;
